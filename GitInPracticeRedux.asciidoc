@@ -1,2 +1,3 @@
-First change
-First push to a remote respositorie
+First change /n
+First push to a remote respositorie /n
+Test line for push command
