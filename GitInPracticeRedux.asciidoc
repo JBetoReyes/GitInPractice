@@ -1,3 +1,4 @@
-First change /n
-First push to a remote respositorie /n
-Test line for push command
+First change 
+First push to a remote respository  
+Test line to use push command 
+Test line to use fetch command
